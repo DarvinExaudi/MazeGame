@@ -1,6 +1,6 @@
 # MazeGame
 
-Kode untuk PowerUp
+Kode untuk PowerUp mencari jalan terbaik menuju pintu
 
 ![PowerUp](https://gitlab.com/DarvinExa/projek/-/raw/main/ezgif.com-video-to-gif__4_.gif)
 
